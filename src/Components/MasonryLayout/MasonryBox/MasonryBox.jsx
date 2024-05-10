@@ -6,7 +6,7 @@ import { PropTypes } from 'prop-types';
 const MasonryBox = ({ wallSrc }) => {
   return (
     <div className={styles["my-masonry"]}>
-        <img src={wallSrc} className={styles["my-masonry"]} alt="" />
+        <img src={wallSrc} className={styles["my-masonry"]} alt="" loading="lazy" />
     </div>
   )
 }
@@ -14,9 +14,6 @@ const MasonryBox = ({ wallSrc }) => {
 // validate MasonryBox component
 MasonryBox.propTypes = {
   wallSrc: PropTypes.string.isRequired,
-  userProf: PropTypes.string.isRequired,
-  userName: PropTypes.string.isRequired,
-  userJob: PropTypes.string.isRequired,
 }
 
 export default MasonryBox

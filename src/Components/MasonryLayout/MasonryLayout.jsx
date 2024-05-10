@@ -26,9 +26,6 @@ const MasonryLayout = ({ images }) => {
         <MasonryBox 
           key={item.id} 
           wallSrc={item.src} 
-          userProf={item.user.src} 
-          userName={item.user.name} 
-          userJob={item.user.job} 
         />
       ))}
     </Masonry>

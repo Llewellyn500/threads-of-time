@@ -2,25 +2,488 @@
     "categories": {
         "all": [
             {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/1.jpg",
-                "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Arash",
-                    "job": "Designer"
-                }
+                "id": "001",
+                "src": "img/001.webp"
+            },
+            {
+                "id": "002",
+                "src": "img/002.webp"
+            },
+            {
+                "id": "003",
+                "src": "img/003.webp"
+            },
+            {
+                "id": "004",
+                "src": "img/004.webp"
+            },
+            {
+                "id": "005",
+                "src": "img/005.webp"
+            },
+            {
+                "id": "006",
+                "src": "img/006.webp"
+            },
+            {
+                "id": "007",
+                "src": "img/007.webp"
+            },
+            {
+                "id": "008",
+                "src": "img/008.webp"
+            },
+            {
+                "id": "009",
+                "src": "img/009.webp"
+            },
+            {
+                "id": "010",
+                "src": "img/010.webp"
+            },
+            {
+                "id": "011",
+                "src": "img/011.webp"
+            },
+            {
+                "id": "012",
+                "src": "img/012.webp"
+            },
+            {
+                "id": "013",
+                "src": "img/013.webp"
+            },
+            {
+                "id": "014",
+                "src": "img/014.webp"
+            },
+            {
+                "id": "015",
+                "src": "img/015.webp"
+            },
+            {
+                "id": "016",
+                "src": "img/016.webp"
+            },
+            {
+                "id": "017",
+                "src": "img/017.webp"
+            },
+            {
+                "id": "018",
+                "src": "img/018.webp"
+            },
+            {
+                "id": "019",
+                "src": "img/019.webp"
+            },
+            {
+                "id": "020",
+                "src": "img/020.webp"
+            },
+            {
+                "id": "021",
+                "src": "img/021.webp"
+            },
+            {
+                "id": "022",
+                "src": "img/022.webp"
+            },
+            {
+                "id": "023",
+                "src": "img/023.webp"
+            },
+            {
+                "id": "024",
+                "src": "img/024.webp"
+            },
+            {
+                "id": "025",
+                "src": "img/025.webp"
+            },
+            {
+                "id": "026",
+                "src": "img/026.webp"
+            },
+            {
+                "id": "027",
+                "src": "img/027.webp"
+            },
+            {
+                "id": "028",
+                "src": "img/028.webp"
+            },
+            {
+                "id": "029",
+                "src": "img/029.webp"
+            },
+            {
+                "id": "030",
+                "src": "img/030.webp"
+            },
+            {
+                "id": "031",
+                "src": "img/031.webp"
+            },
+            {
+                "id": "032",
+                "src": "img/032.webp"
+            },
+            {
+                "id": "033",
+                "src": "img/033.webp"
+            },
+            {
+                "id": "034",
+                "src": "img/034.webp"
+            },
+            {
+                "id": "035",
+                "src": "img/035.webp"
+            },
+            {
+                "id": "036",
+                "src": "img/036.webp"
+            },
+            {
+                "id": "037",
+                "src": "img/037.webp"
+            },
+            {
+                "id": "038",
+                "src": "img/038.webp"
+            },
+            {
+                "id": "039",
+                "src": "img/039.webp"
+            },
+            {
+                "id": "040",
+                "src": "img/040.webp"
+            },
+            {
+                "id": "041",
+                "src": "img/041.webp"
+            },
+            {
+                "id": "042",
+                "src": "img/042.webp"
+            },
+            {
+                "id": "043",
+                "src": "img/043.webp"
+            },
+            {
+                "id": "044",
+                "src": "img/044.webp"
+            },
+            {
+                "id": "045",
+                "src": "img/045.webp"
+            },
+            {
+                "id": "046",
+                "src": "img/046.webp"
+            },
+            {
+                "id": "047",
+                "src": "img/047.webp"
+            },
+            {
+                "id": "048",
+                "src": "img/048.webp"
+            },
+            {
+                "id": "049",
+                "src": "img/049.webp"
+            },
+            {
+                "id": "050",
+                "src": "img/050.webp"
+            },
+            {
+                "id": "051",
+                "src": "img/051.webp"
+            },
+            {
+                "id": "052",
+                "src": "img/052.webp"
+            },
+            {
+                "id": "053",
+                "src": "img/053.webp"
+            },
+            {
+                "id": "054",
+                "src": "img/054.webp"
+            },
+            {
+                "id": "055",
+                "src": "img/055.webp"
+            },
+            {
+                "id": "056",
+                "src": "img/056.webp"
+            },
+            {
+                "id": "057",
+                "src": "img/057.webp"
+            },
+            {
+                "id": "058",
+                "src": "img/058.webp"
+            },
+            {
+                "id": "059",
+                "src": "img/059.webp"
+            },
+            {
+                "id": "060",
+                "src": "img/060.webp"
+            },
+            {
+                "id": "061",
+                "src": "img/061.webp"
+            },
+            {
+                "id": "062",
+                "src": "img/062.webp"
+            },
+            {
+                "id": "063",
+                "src": "img/063.webp"
+            },
+            {
+                "id": "064",
+                "src": "img/064.webp"
+            },
+            {
+                "id": "065",
+                "src": "img/065.webp"
+            },
+            {
+                "id": "066",
+                "src": "img/066.webp"
+            },
+            {
+                "id": "067",
+                "src": "img/067.webp"
+            },
+            {
+                "id": "068",
+                "src": "img/068.webp"
+            },
+            {
+                "id": "069",
+                "src": "img/069.webp"
+            },
+            {
+                "id": "070",
+                "src": "img/070.webp"
+            },
+            {
+                "id": "071",
+                "src": "img/071.webp"
+            },
+            {
+                "id": "072",
+                "src": "img/072.webp"
+            },
+            {
+                "id": "073",
+                "src": "img/073.webp"
+            },
+            {
+                "id": "074",
+                "src": "img/074.webp"
+            },
+            {
+                "id": "075",
+                "src": "img/075.webp"
+            },
+            {
+                "id": "076",
+                "src": "img/076.webp"
+            },
+            {
+                "id": "077",
+                "src": "img/077.webp"
+            },
+            {
+                "id": "078",
+                "src": "img/078.webp"
+            },
+            {
+                "id": "079",
+                "src": "img/079.webp"
+            },
+            {
+                "id": "080",
+                "src": "img/080.webp"
+            },
+            {
+                "id": "081",
+                "src": "img/081.webp"
+            },
+            {
+                "id": "082",
+                "src": "img/082.webp"
+            },
+            {
+                "id": "083",
+                "src": "img/083.webp"
+            },
+            {
+                "id": "084",
+                "src": "img/084.webp"
+            },
+            {
+                "id": "085",
+                "src": "img/085.webp"
+            },
+            {
+                "id": "086",
+                "src": "img/086.webp"
+            },
+            {
+                "id": "087",
+                "src": "img/087.webp"
+            },
+            {
+                "id": "088",
+                "src": "img/088.webp"
+            },
+            {
+                "id": "089",
+                "src": "img/089.webp"
+            },
+            {
+                "id": "090",
+                "src": "img/090.webp"
+            },
+            {
+                "id": "091",
+                "src": "img/091.webp"
+            },
+            {
+                "id": "092",
+                "src": "img/092.webp"
+            },
+            {
+                "id": "093",
+                "src": "img/093.webp"
+            },
+            {
+                "id": "094",
+                "src": "img/094.webp"
+            },
+            {
+                "id": "095",
+                "src": "img/095.webp"
+            },
+            {
+                "id": "096",
+                "src": "img/096.webp"
+            },
+            {
+                "id": "097",
+                "src": "img/097.webp"
+            },
+            {
+                "id": "098",
+                "src": "img/098.webp"
+            },
+            {
+                "id": "099",
+                "src": "img/099.webp"
+            },
+            {
+                "id": "100",
+                "src": "img/100.webp"
+            },
+            {
+                "id": "101",
+                "src": "img/101.webp"
+            },
+            {
+                "id": "102",
+                "src": "img/102.webp"
+            },
+            {
+                "id": "103",
+                "src": "img/103.webp"
+            },
+            {
+                "id": "104",
+                "src": "img/104.webp"
+            },
+            {
+                "id": "105",
+                "src": "img/105.webp"
+            },
+            {
+                "id": "106",
+                "src": "img/106.webp"
+            },
+            {
+                "id": "107",
+                "src": "img/107.webp"
+            },
+            {
+                "id": "108",
+                "src": "img/108.webp"
+            },
+            {
+                "id": "109",
+                "src": "img/109.webp"
+            },
+            {
+                "id": "110",
+                "src": "img/110.webp"
+            },
+            {
+                "id": "111",
+                "src": "img/111.webp"
+            },
+            {
+                "id": "112",
+                "src": "img/112.webp"
+            },
+            {
+                "id": "113",
+                "src": "img/113.webp"
+            },
+            {
+                "id": "114",
+                "src": "img/114.webp"
+            },
+            {
+                "id": "115",
+                "src": "img/115.webp"
+            }
+        ],
+        "Mothership 🥰": [
+            {
+                "id": "001",
+                "src": "img/001.webp"
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/2.jfif",
+                "src": "img/wallpapers/7.png",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
+                    "src": "img/profile/4.jpg",
+                    "name": "Jennifer",
+                    "job": "Front-End"
                 }
+            }
+        ],
+        "Together": [
+            {
+                "id": "002",
+                "src": "img/002.webp"
             },
             {
-                "id": "wallpaper 3",
+                "id": "wallpaper 2",
                 "src": "img/wallpapers/3.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
@@ -29,154 +492,6 @@
                 }
             },
             {
-                "id": "wallpaper 4",
-                "src": "img/wallpapers/4.jpg",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "James",
-                    "job": "editor"
-                }
-            },
-            {
-                "id": "wallpaper 5",
-                "src": "img/wallpapers/5.jpg",
-                "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Mary",
-                    "job": "Developer"
-                }
-            },
-            {
-                "id": "wallpaper 6",
-                "src": "img/wallpapers/6.jpg",
-                "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
-                }
-            },
-            {
-                "id": "wallpaper 7",
-                "src": "img/wallpapers/7.png",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Jennifer",
-                    "job": "Front-End"
-                }
-            },
-            {
-                "id": "wallpaper 8",
-                "src": "img/wallpapers/8.jfif",
-                "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Richard",
-                    "job": "Product Designer"
-                }
-            },
-            {
-                "id": "wallpaper 9",
-                "src": "img/wallpapers/9.jpg",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
-                }
-            },
-            {
-                "id": "wallpaper 10",
-                "src": "img/wallpapers/10.jfif",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Charles",
-                    "job": "Designer"
-                }
-            },
-            {
-                "id": "wallpaper 11",
-                "src": "img/wallpapers/11.jfif",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joshua",
-                    "job": "Developer"
-                }
-            },
-            {
-                "id": "wallpaper 12",
-                "src": "img/wallpapers/12.jpg",
-                "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
-                }
-            },
-            {
-                "id": "wallpaper 13",
-                "src": "img/wallpapers/13.jpg",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Larry",
-                    "job": "photographer"
-                }
-            },
-            {
-                "id": "wallpaper 14",
-                "src": "img/wallpapers/14.jpg",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Eric",
-                    "job": "Editor"
-                }
-            },
-            {
-                "id": "wallpaper 15",
-                "src": "img/wallpapers/15.jpg",
-                "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
-                }
-            }
-        ],
-        "space": [
-            {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/6.jpg",
-                "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
-                }
-            },
-            {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/7.png",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Jennifer",
-                    "job": "Front-End"
-                }
-            }
-        ],
-        "topic": [
-            {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/2.jfif",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
-                }
-            },
-            {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/3.jpg",
-                "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
-                }
-            },
-            {
                 "id": "wallpaper 3",
                 "src": "img/wallpapers/4.jpg",
                 "user": {
@@ -227,64 +542,6 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
-                    "job": "Designer"
-                }
-            }
-        ],
-        "nature": [
-            {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/12.jpg",
-                "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
-                }
-            },
-            {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/14.jpg",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Eric",
-                    "job": "Editor"
-                }
-            },
-            {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/15.jpg",
-                "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
-                }
-            }
-        ],
-        "nft": [
-            {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/8.jfif",
-                "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Richard",
-                    "job": "Product Designer"
-                }
-            },
-            {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/9.jpg",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
-                }
-            },
-            {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/10.jfif",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Charles",
                     "job": "Designer"
                 }
             }
