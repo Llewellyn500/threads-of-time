@@ -12,6 +12,6 @@ I deploy this Gallery on [Netlify](https://treadsoftime.netlify.app/) or see the
 ![Gallery Desktop](https://user-images.githubusercontent.com/89915857/164554768-0c553069-068e-4b3b-b6be-3c383a76d0cf.png)
 
 # 📍 Installation steps ⚙
-    clon this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
+    clon this repo with this command: git clone https://github.com/Llewellyn500/threads-of-time.git
     go to the directory and enter: npm i
     when all packages are completely installed enter: npm start
