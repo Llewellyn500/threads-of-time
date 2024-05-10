@@ -9,7 +9,7 @@ I'm just making this fun project as a mothers day gift for my mom. I hope you li
 
 I deploy this Gallery on [Netlify](https://treadsoftime.netlify.app/) or see the below preview 😉🖼
 
-![Gallery Desktop](https://user-images.githubusercontent.com/89915857/164554768-0c553069-068e-4b3b-b6be-3c383a76d0cf.png)
+![Gallery Desktop](./public/cover.png)
 
 # 📍 Installation steps ⚙
     clon this repo with this command: git clone https://github.com/Llewellyn500/threads-of-time.git
