@@ -20,26 +20,26 @@ const App = () => {
       title: "All Images",
       active: true
     },
-    {
-      id: 2,
-      title: "Topic Images",
-      active: false
-    },
-    {
-      id: 3,
-      title: "Nature Images",
-      active: false
-    },
-    {
-      id: 4,
-      title: "NFT Images",
-      active: false
-    },
-    {
-      id: 5,
-      title: "Space Images",
-      active: false
-    }
+    // {
+    //   id: 2,
+    //   title: "Topic Images",
+    //   active: false
+    // },
+    // {
+    //   id: 3,
+    //   title: "Nature Images",
+    //   active: false
+    // },
+    // {
+    //   id: 4,
+    //   title: "NFT Images",
+    //   active: false
+    // },
+    // {
+    //   id: 5,
+    //   title: "Space Images",
+    //   active: false
+    // }
   ]
 
   const [ categoryImage, setCategoryImage ] = useState(images.categories.all)
