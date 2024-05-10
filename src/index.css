@@ -31,3 +31,23 @@ body {
 .justify-content-between {
     justify-content: space-between;
 }
+/* Width of the scrollbar */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  /* Track of the scrollbar */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* Handle of the scrollbar */
+  ::-webkit-scrollbar-thumb {
+    background: #E25098;
+    border-radius: 1rem;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E25098;
+  }
