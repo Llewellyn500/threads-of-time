@@ -12,7 +12,7 @@ import Dropdown from './Components/Elements/Dropdown/Dropdown';
 import images from "./Jsons/Images.json"
 
 // App component
-const App = () => { 
+const App = () => {
   // dropdown items
   const ddItems = [
     {
@@ -42,29 +42,29 @@ const App = () => {
     }
   ]
 
-  const [categoryImage, setCategoryImage] = useState(images.categories.all)
+  const [ categoryImage, setCategoryImage ] = useState(images.categories.all)
 
   const takeDdTitle = (ddTitle) => {
     setCategoryImage(() => {
       let categoryChoose = Object.keys(images.categories).filter(item => {
-        const titleSplited = ddTitle.toLowerCase().split(" ")[0]
+        const titleSplited = ddTitle.toLowerCase().split(" ")[ 0 ]
         return item.toLowerCase().includes(titleSplited)
       })
-      return [ ...images.categories[categoryChoose] ]
+      return [ ...images.categories[ categoryChoose ] ]
     })
   }
 
   return (
     <>
-        <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
-          <ContainerCard>
-              <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
-                <h1>Threads Of Time</h1>
-                <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
-              </div>
-              <MasonryLayout images={categoryImage} />
-          </ContainerCard>
-        </div>
+      <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
+        <ContainerCard>
+          <div className={`${styles[ "gallery-setting" ]} flex justify-content-between align-items-center`}>
+            <h1>Threads Of Time</h1>
+            <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
+          </div>
+          <MasonryLayout images={categoryImage} />
+        </ContainerCard>
+      </div>
     </>
   )
 }
